@@ -1,25 +1,35 @@
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E2761,100:00C8FF&height=200&section=header&text=MITHUN%20M&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20%26%20Computer%20Vision%20Engineer%20%7C%20Patent%20Holder&descAlignY=60&descSize=16" width="100%"/> </p> <p align="center"><i>Building intelligent systems where deep learning meets the real world.</i></p>
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=1E2761&height=45&section=header&text=About%20Me&fontSize=22&fontColor=ffffff&fontAlignY=65" width="100%"/> </p>
+### Hi 👋, I'm Mithun M
+A passionate Student exploring the world of technology
+- 🔭 I'm currently working on **AI-based Computer Vision & IoT solutions**
+- 🌱 I'm currently learning **Deep Learning, YOLO, CNN & Computer Vision**
+- 👯 I'm looking to collaborate on **Computer Vision / IoT-based AI projects**
+- 💬 Ask me about **Python, Machine Learning, Computer Vision, YOLO, OpenCV**
+- 📫 How to reach me: **mithun064mm@gmail.com**
+- ⚡ Fun fact: **I hold a published Indian patent for an AI-based monitoring system to prevent crop damage from livestock**
+- ♟️ Hobbies: **Chess & Python Problem Solving**
 
-I'm Mithun M, a student engineer specializing in Artificial Intelligence and Computer Vision. My work sits at the intersection of software and the physical world — building real-time detection systems with YOLO and CNNs, and pairing them with IoT sensing to solve tangible, everyday problems. I'm driven by turning research-grade deep learning into deployable solutions.
+#### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mithun-m-608716326)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mithun064mm@gmail.com)
 
-🔭 Currently building AI-based Computer Vision & IoT solutions
-🌱 Currently learning Deep Learning, YOLO, CNN & Computer Vision
-👯 Looking to collaborate on Computer Vision / IoT-based AI projects
-💬 Ask me about Python, Machine Learning, Computer Vision, YOLO, OpenCV
-♟️ Hobbies: Chess & Python Problem Solving
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=00C8FF&height=45&section=header&text=Patent%20Highlight&fontSize=22&fontColor=1E2761&fontAlignY=65" width="100%"/> </p>
-
-Published Indian Patent Holder Designed an AI-based monitoring system to prevent crop damage caused by livestock intrusion, combining Computer Vision and IoT sensing for real-time field protection.
-
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=1E2761&height=45&section=header&text=Languages%20%26%20Tools&fontSize=22&fontColor=ffffff&fontAlignY=65" width="100%"/> </p> <p align="left">
-
-Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image
-
+#### Languages and Tools:
+<p align="left">
+<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+<a href="https://opencv.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/></a>
 </p>
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=00C8FF&height=45&section=header&text=Certifications&fontSize=22&fontColor=1E2761&fontAlignY=65" width="100%"/> </p>
-🏅 NPTEL — Responsible & Safe AI Systems
-🏅 NPTEL — Software Testing
-🏅 Infosys Springboard — Cloud Computing
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=1E2761&height=45&section=header&text=GitHub%20Stats&fontSize=22&fontColor=ffffff&fontAlignY=65" width="100%"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MITHUNM29&show_icons=true&theme=radical&count_private=true" alt="Mithun's GitHub Stats" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MITHUNM29&theme=radical" alt="Mithun's GitHub Streak" width="48%" /> </p>
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C8FF,100:1E2761&height=180&section=header&text=Let's%20Connect&fontSize=32&fontColor=ffffff&fontAlignY=45&desc=mithun064mm%40gmail.com%20%20%7C%20%20linkedin.com%2Fin%2Fmithun-m-608716326&descAlignY=65&descSize=14" width="100%"/> </p>
+
+#### 🎓 Certifications:
+- NPTEL – Responsible & Safe AI Systems
+- NPTEL – Software Testing
+- Infosys Springboard – Cloud Computing
+
+#### GitHub Stats:
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=MITHUNM29&show_icons=true&theme=radical" alt="Mithun's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MITHUNM29&theme=radical" alt="Mithun's GitHub Streak" width="48%" />
+</p>
