@@ -66,7 +66,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MITHUNM29&theme=redical" alt="Activity Graph" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MITHUNM29&theme=radical" alt="Activity Graph" width="90%" />
 </p>
 
 ---
@@ -78,24 +78,6 @@
 </p>
 
 ---
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MITHUNM29/MITHUNM29/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="90%" />
-</p>
-
-<sub>💡 To enable this: add a GitHub Actions workflow using <code>Platane/snk</code> in your profile repo — it auto-generates this SVG from your contribution graph. Ask me and I'll write the workflow file for you.</sub>
-
----
-
-### 🗺️ Visitor Map
-
-<p align="center">
-  <img src="https://mapmyvisitors.com/map.png?d=YOUR_MAP_ID&m=6" alt="visitor map" />
-</p>
-
-<sub>💡 Replace <code>YOUR_MAP_ID</code> by generating a free map at <a href="https://mapmyvisitors.com">mapmyvisitors.com</a>.</sub>
 
 ---
 
