@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Mithun M 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C8FF,100:0077B5&height=220&section=header&text=Hi%20There,%20I'm%20Mithun%20M&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Computer%20Vision%20Engineer%20%7C%20Patent%20Holder&descAlignY=55&descSize=18" width="100%"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=AI+%26+Computer+Vision+Enthusiast;IoT+%2B+Deep+Learning+Explorer;YOLO+%7C+CNN+%7C+OpenCV+Builder;Patent+Holder+%7C+Chess+Player" alt="Typing SVG" />
@@ -21,6 +21,12 @@
 - 📫 Reach me at **mithun064mm@gmail.com**
 - ⚡ Fun fact: I hold a **published Indian patent** for an AI-based monitoring system to prevent crop damage from livestock
 - ♟️ Hobbies: **Chess & Python Problem Solving**
+
+---
+
+### 🏅 Highlight
+
+> **Published Indian Patent Holder** — Designed an AI-based monitoring system to prevent crop damage caused by livestock intrusion, combining Computer Vision and IoT sensing for real-time field protection.
 
 ---
 
@@ -70,6 +76,26 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MITHUNM29&theme=radical&no-frame=true&row=1&column=7" alt="trophies" />
 </p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MITHUNM29/MITHUNM29/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="90%" />
+</p>
+
+<sub>💡 To enable this: add a GitHub Actions workflow using <code>Platane/snk</code> in your profile repo — it auto-generates this SVG from your contribution graph. Ask me and I'll write the workflow file for you.</sub>
+
+---
+
+### 🗺️ Visitor Map
+
+<p align="center">
+  <img src="https://mapmyvisitors.com/map.png?d=YOUR_MAP_ID&m=6" alt="visitor map" />
+</p>
+
+<sub>💡 Replace <code>YOUR_MAP_ID</code> by generating a free map at <a href="https://mapmyvisitors.com">mapmyvisitors.com</a>.</sub>
 
 ---
 
