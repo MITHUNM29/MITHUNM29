@@ -1,36 +1,37 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C8FF,100:0077B5&height=220&section=header&text=Hi%20There,%20I'm%20Mithun%20M&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Computer%20Vision%20Engineer%20%7C%20Patent%20Holder&descAlignY=55&descSize=18" width="100%"/>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=AI+%26+Computer+Vision+Enthusiast;IoT+%2B+Deep+Learning+Explorer;YOLO+%7C+CNN+%7C+OpenCV+Builder;Patent+Holder+%7C+Chess+Player" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E2761,100:00C8FF&height=200&section=header&text=MITHUN%20M&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20%26%20Computer%20Vision%20Engineer%20%7C%20Patent%20Holder&descAlignY=60&descSize=16" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MITHUNM29&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://linkedin.com/in/mithun-m-608716326"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mithun064mm@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-</p>
+<p align="center"><i>Building intelligent systems where deep learning meets the real world.</i></p>
 
 ---
 
-### 🚀 About Me
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1E2761&height=45&section=header&text=About%20Me&fontSize=22&fontColor=ffffff&fontAlignY=65" width="100%"/>
+</p>
 
-- 🔭 Currently working on **AI-based Computer Vision & IoT solutions**
+I'm Mithun M, a student engineer specializing in Artificial Intelligence and Computer Vision. My work sits at the intersection of software and the physical world — building real-time detection systems with YOLO and CNNs, and pairing them with IoT sensing to solve tangible, everyday problems. I'm driven by turning research-grade deep learning into deployable solutions.
+
+- 🔭 Currently building **AI-based Computer Vision & IoT solutions**
 - 🌱 Currently learning **Deep Learning, YOLO, CNN & Computer Vision**
 - 👯 Looking to collaborate on **Computer Vision / IoT-based AI projects**
 - 💬 Ask me about **Python, Machine Learning, Computer Vision, YOLO, OpenCV**
-- 📫 Reach me at **mithun064mm@gmail.com**
-- ⚡ Fun fact: I hold a **published Indian patent** for an AI-based monitoring system to prevent crop damage from livestock
 - ♟️ Hobbies: **Chess & Python Problem Solving**
 
 ---
 
-### 🏅 Highlight
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00C8FF&height=45&section=header&text=Patent%20Highlight&fontSize=22&fontColor=1E2761&fontAlignY=65" width="100%"/>
+</p>
 
-> **Published Indian Patent Holder** — Designed an AI-based monitoring system to prevent crop damage caused by livestock intrusion, combining Computer Vision and IoT sensing for real-time field protection.
+**Published Indian Patent Holder**
+Designed an AI-based monitoring system to prevent crop damage caused by livestock intrusion, combining Computer Vision and IoT sensing for real-time field protection.
 
 ---
 
-### 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1E2761&height=45&section=header&text=Languages%20%26%20Tools&fontSize=22&fontColor=ffffff&fontAlignY=65" width="100%"/>
+</p>
 
 <p align="left">
 
@@ -48,46 +49,27 @@
 
 ---
 
-### 🎓 Certifications
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00C8FF&height=45&section=header&text=Certifications&fontSize=22&fontColor=1E2761&fontAlignY=65" width="100%"/>
+</p>
 
-- 🏅 NPTEL – Responsible & Safe AI Systems
-- 🏅 NPTEL – Software Testing
-- 🏅 Infosys Springboard – Cloud Computing
+- 🏅 NPTEL — Responsible & Safe AI Systems
+- 🏅 NPTEL — Software Testing
+- 🏅 Infosys Springboard — Cloud Computing
 
 ---
 
-### 📊 GitHub Stats
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1E2761&height=45&section=header&text=GitHub%20Stats&fontSize=22&fontColor=ffffff&fontAlignY=65" width="100%"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MITHUNM29&show_icons=true&theme=radical&count_private=true" alt="Mithun's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MITHUNM29&theme=radical" alt="Mithun's GitHub Streak" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MITHUNM29&layout=compact&theme=radical" alt="Top Languages" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MITHUNM29&theme=radical" alt="Activity Graph" width="90%" />
-</p>
-
 ---
 
-### 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MITHUNM29&theme=radical&no-frame=true&row=1&column=7" alt="trophies" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C8FF,100:1E2761&height=180&section=header&text=Let's%20Connect&fontSize=32&fontColor=ffffff&fontAlignY=45&desc=mithun064mm%40gmail.com%20%20%7C%20%20linkedin.com%2Fin%2Fmithun-m-608716326&descAlignY=65&descSize=14" width="100%"/>
 </p>
-
----
-
----
-
-### 📫 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/mithun-m-608716326"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mithun064mm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<p align="center"><i>⭐ Thanks for visiting my profile — feel free to explore my repositories and reach out for collaboration!</i></p>
