@@ -63,7 +63,7 @@ Real-time animal detection system using **YOLO and OpenCV** to prevent crop dama
 #### 📈 [Stock Market Price Prediction Using AI & ML](#) — *2025*
 Forecasting system built with **Python, Pandas, and ML models (Linear Regression, Random Forest, LSTM)** to predict stock prices from historical data, helping identify market trends for investment decisions.
 
-> 💡 *Update the links above (#) with your actual GitHub repository URLs.*
+
 
 ---
 
